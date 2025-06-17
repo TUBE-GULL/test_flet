@@ -14,9 +14,7 @@
 2. **Клонирование проекта**
    ```bash
    # Клонируйте репозиторий
-   git clone https://github.com/neuro-fill/51-lesson.git
-   # Перейдите в директорию проекта
-   cd 51-lesson
+   git clone https://github.com/TUBE-GULL/test_flet
    ```
 
 3. **Настройка VSCode**
